@@ -14,6 +14,7 @@ namespace ConsoleApp1
             //test 2
             //Test 3
             //test 4
+            Console.Clear();
         }
     }
 }
